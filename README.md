@@ -1,2 +1,2 @@
 # simple-zerodha-app
-Static landing page for Zerodha
+Static landing page for Zerodha.
